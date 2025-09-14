@@ -1,0 +1,32 @@
+/* ...existing code... */
+.participants-section {
+  margin-top: 1.5em;
+  padding: 1em;
+  background: #f7f9fc;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+.participants-section h3 {
+  margin-bottom: 0.5em;
+  color: #2a4365;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.participants-list {
+  list-style-type: disc;
+  padding-left: 1.5em;
+  margin: 0;
+}
+
+.participant-item {
+  margin-bottom: 0.3em;
+  color: #374151;
+}
+
+.participant-item.none {
+  color: #a0aec0;
+  font-style: italic;
+}
+/* ...existing code... */

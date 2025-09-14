@@ -62,7 +62,7 @@ section h3 {
   padding: 15px;
   border: 1px solid #ddd;
   border-radius: 5px;
-  background-color: #f9f9f9;
+  background-color: #fffbe6; /* changed to light yellow for test */
 }
 
 .activity-card h4 {
